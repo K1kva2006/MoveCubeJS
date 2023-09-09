@@ -35,8 +35,8 @@ body {
 }
 button {
     user-select: none;
-    padding: 6px;
-    font-size: 18px;
+    padding: 8px;
+    font-size: 22px;
     margin: 2px;
     display: none;
 }
